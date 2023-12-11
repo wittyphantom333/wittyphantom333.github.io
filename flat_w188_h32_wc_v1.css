@@ -24,12 +24,7 @@
 }
 
 .plugin #providers {
-	float: center;
 	position: relative;
-}
-
-.plugin #providers .providers_group {
-	float: center;
 }
 
 .plugin #providers .providers_group.hidden {
@@ -101,7 +96,7 @@
 }
 
 .plugin #providers .provider {
-	float: center;
+	float: left;
 	outline: 0 none;
 	width: 178px !important;
 	padding: 2px 4px 4px 2px;
