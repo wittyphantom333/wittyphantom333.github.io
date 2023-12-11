@@ -101,7 +101,7 @@
 }
 
 .plugin #providers .provider {
-	float: left;
+	float: center;
 	outline: 0 none;
 	width: 178px !important;
 	padding: 2px 4px 4px 2px;
@@ -125,7 +125,7 @@
 	height: 32px;
 	line-height: 32px;
 	padding: 0 0 0 35px;
-	text-align: left;
+	text-align: center;
 	text-decoration: none;
 	width: 143px;
 	background-position: -500px -500px;
